@@ -1,0 +1,38 @@
+{
+ "address": "1EU9ub2jUWgWJdMKHUGgHttVPqLSaKhjYy",
+ "address_index": 67270641,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "P2pdx user db",
+ "files": {
+  "index.html": {
+   "sha512": "6a251f7808bc9bc92615be620ead076cff93322f255d64ab5f8d4d575f096ac7",
+   "size": 465
+  }
+ },
+ "ignore": "",
+ "includes": {
+  "data/userdb/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "modified": 1483736630.35595,
+ "postmessage_nonce_security": true,
+ "sign": [
+  88835127082486976757779771424790473671620530446814617736903926577589543321989,
+  86267009717609316545950545326098683329875934697869639608862751658622750395751
+ ],
+ "signers_sign": "HLlrTHohzGJmKfPXMHheG8kOMkqgFGKL5/AfqiQPRqm6y9fkD2NPVLRlZWaZ8FKVBJAQQRJMVjVYd2u1pa4eqGE=",
+ "signs": {
+  "1EU9ub2jUWgWJdMKHUGgHttVPqLSaKhjYy": "HCv29O/G5u2FD6yZSr6wvPyuf4TDxka+Zacm1BNEKu7DqYR7x+dZ23DQBs3hs5i/f9I7Apd4ipztOeJySNYgAlU="
+ },
+ "signs_required": 1,
+ "title": "P2pdx Registry",
+ "translate": [
+  "js/all.js"
+ ],
+ "zeronet_version": "0.5.1"
+}
