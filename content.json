@@ -11,7 +11,7 @@
    "size": 465
   }
  },
- "ignore": "",
+ "ignore": ".git/.*",
  "includes": {
   "data/userdb/content.json": {
    "signers": [],
@@ -19,20 +19,21 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1483736630.35595,
+ "merged_type": "P2pdx",
+ "modified": 1489125966,
  "postmessage_nonce_security": true,
  "sign": [
-  88835127082486976757779771424790473671620530446814617736903926577589543321989,
-  86267009717609316545950545326098683329875934697869639608862751658622750395751
+  35483581379831360512775146454088583175380131620232909134284156082305989003977,
+  111095020417536628337079559612381660356731428974927564537284855013593991780063
  ],
  "signers_sign": "HLlrTHohzGJmKfPXMHheG8kOMkqgFGKL5/AfqiQPRqm6y9fkD2NPVLRlZWaZ8FKVBJAQQRJMVjVYd2u1pa4eqGE=",
  "signs": {
-  "1EU9ub2jUWgWJdMKHUGgHttVPqLSaKhjYy": "HCv29O/G5u2FD6yZSr6wvPyuf4TDxka+Zacm1BNEKu7DqYR7x+dZ23DQBs3hs5i/f9I7Apd4ipztOeJySNYgAlU="
+  "1EU9ub2jUWgWJdMKHUGgHttVPqLSaKhjYy": "HJSJIPl+AuXxQ4/fM1uUWwd6pnmaxGosOnGKN4U8bBip4EzlXZxtNfwRqzCLjJl5/1T0uVuaUe1I+D32NIMlME4="
  },
  "signs_required": 1,
  "title": "P2pdx Registry",
  "translate": [
   "js/all.js"
  ],
- "zeronet_version": "0.5.1"
+ "zeronet_version": "0.5.3"
 }
